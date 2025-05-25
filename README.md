@@ -200,17 +200,4 @@ The ERD for the logical model would be as follows (with relationships shown thro
 
  Together, these phases ensure the system's efficiency in real-time medication tracking, inventory updates, and cost transparency, improving patient experience and pharmacy operations.
      
-#    GROUP MEMBERS(FALCON)
 
-- 	ISHIMWE Patience                   25708
-- 	KOKO BYAMANA Christian             22807
-- 	INGABIRE Nadine                    23675
-- 	KIGERO KANYANA Daniella            24652
-- 	UWAMWIZA Kelia                     24745
-- 	HARERIMANA Gaspard                 24960
-- 	ISIBO MUHIRE Yanis                 25396
-- 	UMUTONI Nadege                     26609
-- 	UWAMWIZA Kelia                     24745
-- 	Mazimpaka Danny                   25748
-- 	ISHIMWE Joel                      24720 
-- 	IRAKARAMA Bergerac                24873
