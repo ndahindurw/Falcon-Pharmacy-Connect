@@ -4,8 +4,7 @@ GRANT CONNECT, RESOURCE TO pharmacy_admin;
 
 -- Admin has full access to all tables
 GRANT ALL ON patient pharmacy_admin;
-GRANT ALL ON  TO pharmacy_admin;
-GRANT ALL ON customers TO pharmacy_admin;
-GRANT ALL ON sales TO pharmacy_admin;
-GRANT ALL ON inventory TO pharmacy_admin;
-GRANT ALL ON suppliers TO pharmacy_admin;
+GRANT ALL ON Pharmacy TO pharmacy_admin;
+GRANT ALL ON Medication TO pharmacy_admin;
+GRANT ALL ON Inventory Record TO pharmacy_admin;
+GRANT ALL ON Insurance Provide TO pharmacy_admin;
